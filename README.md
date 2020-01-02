@@ -32,11 +32,12 @@
 | Question 11 | Question 12 | Question 13 | Question 14 | Question 15 |
 | Question 16 | Question 17 | Question 18 | Question 19 | Question 20 |
 
-#### Tutorial Sheet 2
+#### Tutorial Sheet 2 - Laws of Logarithms and Solving Logarithm Equations
 
 - Tutorial Sheet 2 click here
 
-| (https://youtu.be/797P4z6-Rec)[Question 1] Question 1 | (https://youtu.be/FxdXN35EGYI)[Question 2] Question 2 | (https://youtu.be/p1eX9FQ1_FU)[Question 3] Question 3 | (https://youtu.be/tJ52gmmAlh8)[Question 4] Question 4 | (https://youtu.be/CRGJYHBJtjc)[Question 5] Question 5 |
-| (https://youtu.be/https://youtu.be/e0aFAYY7rz0)[Question 6]  Question 6 | Question 7 | Question 8 | Question 9 | Question 10 |
+| [https://youtu.be/797P4z6-Rec](Question 1) Question 1 | [https://youtu.be/FxdXN35EGYI](Question 2) Question 2 | [https://youtu.be/p1eX9FQ1_FU](Question 3) Question 3 | [https://youtu.be/tJ52gmmAlh8](Question 4) Question 4 | [https://youtu.be/CRGJYHBJtjc](Question 5) Question 5 |
+| [https://youtu.be/https://youtu.be/e0aFAYY7rz0](Question 6)  Question 6 | Question 7 | Question 8 | Question 9 | Question 10 |
 | Question 11 | Question 12 | Question 13 | Question 14 | Question 15 |
+
 
