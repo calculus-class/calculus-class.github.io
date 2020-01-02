@@ -39,7 +39,7 @@
 - Tutorial Sheet 2 click here
 
 | [Question 1](https://youtu.be/797P4z6-Rec) | [Question 2](https://youtu.be/FxdXN35EGYI)  |[Question 3](https://youtu.be/p1eX9FQ1_FU) | (https://youtu.be/tJ52gmmAlh8)[Question 4]| [Question 5](https://youtu.be/CRGJYHBJtjc) |
-| [Question 6] (https://youtu.be/https://youtu.be/e0aFAYY7rz0)| Question 7 | Question 8 | Question 9 | Question 10 |
+| [Question 6](https://youtu.be/https://youtu.be/e0aFAYY7rz0)| Question 7 | Question 8 | Question 9 | Question 10 |
 | Question 11 | Question 12 | Question 13 | Question 14 | Question 15 |
 
 
