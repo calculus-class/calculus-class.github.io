@@ -7,9 +7,7 @@
 #### Tutorial Sheet 1
 - Tutorial Sheet 1 click here
 
-| [Question 1](https://youtu.be/iCrbi9ZDDD8) | [Question 2](https://youtu.be/yT0mnqnq6mY) | 
- [Question 3](https://youtu.be/X0BDujOVJFc) | Question 4 |
- [Question 5](https://youtu.be/hTe8GUyY3kY) |
+| [Question 1](https://youtu.be/iCrbi9ZDDD8) | [Question 2](https://youtu.be/yT0mnqnq6mY) | [Question 3](https://youtu.be/X0BDujOVJFc) | Question 4 | [Question 5](https://youtu.be/hTe8GUyY3kY) |
 | Question 6 | [Question 7](https://youtu.be/Mq3JXYDKnMo) | Question 8 | [Question 9](https://youtu.be/Lk6enJV36ms) | Question 10 |
 | Question 11 | [Question 12](https://youtu.be/mpejhLYXy5Y) | [Question 13](https://youtu.be/oiMVd7FfKak) | Question 14 | Question 15 |
 | Question 16 | Question 17 | Question 18 | Question 19 | Question 20 |
