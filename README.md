@@ -58,10 +58,8 @@
 - Tutorial Sheet 1 click here
 
 | [Sequences](https://youtu.be/UFBrhHnNEmo)| [Basic Sequences](https://youtu.be/yvsgaqXzDS8) | Question 3 | Question 4 | Question 5 |
-| [Finite Series](https://youtu.be/Ks4KPCAmDiY) | [Worked Example](https://youtu.be/fTvWAm_BZxA)
- | Question 8 | Question 9 | Question 10 |
-| [Geometric Series](https://youtu.be/exP0muNSNQo) | [Geometric Series](https://youtu.be/5bn11naRfXg)
-| Question 13 | Question 14 | Question 15 |
+| [Finite Series](https://youtu.be/Ks4KPCAmDiY) | [Worked Example](https://youtu.be/fTvWAm_BZxA) | Question 8 | Question 9 | Question 10 |
+| [Geometric Series](https://youtu.be/exP0muNSNQo) | [Geometric Series](https://youtu.be/5bn11naRfXg)| Question 13 | Question 14 | Question 15 |
 | Question 16 | [Telescoping Series](https://youtu.be/L8J5VU8_TVE) | Question 18 | Question 19 | Question 20 |
 
 
